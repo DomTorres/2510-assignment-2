@@ -1,0 +1,4 @@
+Jane Zhang Mar-2-1970 3.800000 I 120
+Mike Johnson Sep-2-1980 3.125000 D
+Mary Jackson Feb-2-1990 4.000000 I 60
+Jack He Feb-3-1990 2.450000 D
