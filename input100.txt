@@ -1,0 +1,110 @@
+Liam Brown Jun-15-1995 3.85 D
+Sophia Lee Dec-22-1987 3.67 I 98
+James Wilson Mar-10-2003 2.92 D
+Emily Chen Oct-05-2000 4.1 I 115
+John Kim Feb-29-1988 3.2 D
+Ava Martinez Jan-18-1975 3.45 I 103
+Henry Zhao Apr-04-1992 2.75 D
+Isabella Singh Nov-14-2005 4.0 I 110
+William Lopez May-06-1980 3.5 D
+Emma Li Jul-30-1999 4.25 I 120
+Noah Thompson Jan-08-2001 3.2 D
+Lucas Rivera Oct-29-1984 3.95 I 85
+Charlotte Patel Jul-20-2002 2.5 D
+Mason Evans Apr-21-1991 4.05 D
+Olivia Nguyen Dec-15-1993 3.67 I 105
+Ethan Green Feb-03-1998 2.99 D
+Amelia Hernandez May-25-1989 4.2 I 100
+Aiden Walker Sep-12-1978 3.15 D
+Sophie Choi Jun-07-1983 3.9 I 90
+Jacob Collins Mar-18-1977 3.6 D
+Mia Hall Aug-11-1994 4.1 I 110
+Lucas Lee Feb-02-1990 3.4 D
+Benjamin Turner Oct-30-1982 2.85 D
+Grace Scott Nov-05-1996 3.75 I 115
+Elijah Nguyen Dec-19-2005 3.2 D
+Harper Kim Jul-22-2001 4.2 I 95
+Oliver Lewis Apr-08-1974 3.5 D
+Avery Thompson Jan-29-1999 4.0 I 108
+Daniel Walker Mar-14-1986 2.95 D
+Evelyn Edwards Oct-16-1972 3.8 I 92
+Wyatt Davis Sep-05-1995 3.3 D
+Hannah Moore Nov-17-1981 4.0 I 100
+Sebastian Rodriguez Jul-03-1983 3.45 D
+Madison Martinez Dec-09-1998 3.9 I 110
+Jackson Clark Mar-25-2004 3.0 D
+Abigail Rivera Jan-31-1982 3.75 I 105
+Logan Brooks Apr-06-1985 3.1 D
+Aria Young Aug-14-1997 4.1 I 88
+David Murphy Sep-27-1991 2.6 D
+Scarlett Flores Feb-21-2000 4.0 I 102
+Caleb Anderson Oct-11-1979 3.7 D
+Lily Carter May-23-1986 4.15 I 109
+Ryan Phillips Jun-10-1993 3.25 D
+Nora Gomez Feb-15-1970 3.9 I 95
+Nicholas Powell Mar-03-2005 3.4 D
+Zoe Hughes Jul-28-1992 4.3 I 115
+Owen Parker Dec-02-1996 3.6 D
+Ella Sanders Jan-12-1988 4.05 I 113
+Matthew Diaz May-30-1976 3.0 D
+Elizabeth Rivera Apr-09-1989 4.0 I 120
+Dylan Long Jun-14-1990 2.8 D
+Mila Ross Nov-21-1975 4.2 I 108
+Carter Green Aug-31-1999 3.3 D
+Lucy Hayes Dec-26-1984 4.1 I 98
+Nathan Peterson Oct-07-2000 2.95 D
+Paisley Clark Jan-27-2003 3.8 I 88
+Samuel Ortiz May-17-1973 3.4 D
+Brooklyn Turner Feb-20-2002 4.3 I 110
+Gabriel Cook Jul-05-1991 3.1 D
+Penelope Bennett Mar-29-1977 4.05 I 95
+Eli Rogers Sep-09-1980 3.7 D
+Luna Stewart Nov-04-1998 4.1 I 112
+Connor Flores Jun-16-2003 3.5 D
+Stella Sanchez Apr-19-1979 4.0 I 85
+Hunter Gonzales Dec-23-2004 2.9 D
+Victoria Price Jul-13-1982 4.15 I 102
+Jeremiah Scott Aug-26-1985 3.3 D
+Aurora Gray Jan-04-1994 4.05 I 100
+Landon Adams Mar-13-1972 3.2 D
+Hazel Powell May-28-2001 4.1 I 90
+Robert Brooks Jun-18-1998 3.9 D
+Naomi Bailey Oct-24-1989 4.0 I 105
+Adrian Bell Nov-08-1974 2.75 D
+Delilah Hughes Feb-10-1997 4.2 I 88
+Hudson Kelly Mar-08-1983 3.4 D
+Sadie Foster Jul-19-2000 4.1 I 113
+Adam Morgan Apr-02-1988 3.5 D
+Aurora Collins Sep-16-1978 3.95 I 110
+Luke Wood Dec-28-1996 3.0 D
+Layla James May-14-1981 4.25 I 92
+Isaac Russell Oct-25-1986 3.2 D
+Ruby Mitchell Jun-04-1995 3.8 I 95
+Anthony Bryant Aug-02-1999 3.6 D
+Ellie Edwards Jul-25-1984 4.1 I 90
+Josiah Foster Nov-06-2002 3.25 D
+Willow Torres Mar-22-1985 4.05 I 108
+Jonathan Rogers Feb-13-2000 2.9 D
+Chloe Rivera Apr-17-1993 4.15 I 104
+Aaron Bell Jan-10-1976 3.5 D
+Sofia Fisher Aug-08-1977 4.05 I 100
+Brayden Hill Jun-26-1989 3.2 D
+Violet Barnes Sep-07-1973 4.3 I 120
+Julian Jenkins Oct-03-2004 3.1 D
+Samantha Hunter Dec-11-1990 4.0 I 110
+Dominic Welch Feb-28-1982 2.85 D
+Leah Chapman Aug-05-1980 3.95 I 105
+Christian Soto Apr-01-1992 3.4 D
+Isabelle Marsh Jul-24-1974 4.2 I 115
+Cooper Fowler Sep-13-1983 3.3 D
+Sadie Burns Mar-19-1988 4.0 I 100
+Joshua Edwards Jan-16-1971 2.95 D
+Maya Crawford May-21-1994 4.1 I 90
+Parker Chapman Jun-30-1985 3.7 D
+Elena Ortiz Dec-06-2001 4.05 I 110
+Miles Howard Apr-12-1990 3.4 D
+Serenity Spencer Nov-23-1984 4.2 I 98
+Lincoln Willis Jul-09-1977 3.1 D
+Bella Bowen Mar-27-2003 3.9 I 92
+Evan Walsh Aug-15-1987 3.5 D
+Anna Romero Oct-18-1975 4.1 I 88

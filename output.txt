@@ -1,4 +1,1000 @@
-Jane Zhang Mar-2-1970 3.800000 I 120
-Mike Johnson Sep-2-1980 3.125000 D
-Mary Jackson Feb-2-1990 4.000000 I 60
-Jack He Feb-3-1990 2.450000 D
+Aiden Nguyen Jan-10-1950 1.260000 I 46
+Madison Thompson Jan-14-1950 3.400000 D
+Gabriel Collins Feb-12-1950 1.550000 I 41
+Brooklyn Hill Feb-14-1950 0.120000 I 98
+Aiden Patel Feb-19-1950 2.860000 D
+Aiden Gray Apr-6-1950 1.320000 I 51
+Eli Turner Jun-16-1950 1.920000 D
+Avery Lewis Jul-3-1950 2.390000 D
+Eli Bryant Jul-11-1950 2.290000 I 43
+Mila Howard Aug-23-1950 4.210000 D
+Gabriel Bell Sep-3-1950 0.840000 I 117
+Jacob Scott Sep-9-1950 3.660000 I 80
+Caleb Chen Sep-23-1950 4.060000 D
+James Lee Oct-5-1950 4.090000 I 89
+Aiden Rivera Oct-5-1950 3.280000 D
+Emily Rodriguez Oct-15-1950 2.640000 D
+Daniel Scott Dec-9-1950 2.950000 I 17
+Samuel Hill Dec-23-1950 2.640000 I 15
+James Long Dec-24-1950 4.070000 D
+Samuel Gonzales Feb-13-1951 2.070000 D
+Wyatt James Apr-25-1951 0.330000 I 66
+Mason Powell May-26-1951 2.340000 D
+Elizabeth Nguyen Jun-3-1951 4.220000 I 88
+Mila Wilson Jun-4-1951 2.780000 I 51
+Brooklyn James Jun-20-1951 0.210000 D
+Matthew Rodriguez Jun-28-1951 1.130000 I 25
+Nicholas Bryant Aug-3-1951 3.340000 I 64
+Isabella Lopez Aug-13-1951 1.200000 I 113
+Jackson Lee Oct-21-1951 3.250000 D
+Ryan Mitchell Oct-26-1951 3.000000 I 103
+Zoe Bryant Nov-19-1951 2.170000 I 58
+Amelia Mitchell Dec-15-1951 1.500000 I 45
+Liam Powell Dec-15-1951 3.600000 D
+Wyatt Howard Dec-18-1951 0.770000 D
+Carter Bailey Dec-19-1951 3.720000 I 49
+Samuel Powell Jan-12-1952 1.510000 D
+Jackson Li Jan-15-1952 1.890000 D
+Logan Hernandez Feb-4-1952 1.350000 D
+Lily Sanchez Feb-18-1952 0.710000 D
+Aiden Green Feb-25-1952 1.690000 D
+Matthew Choi Mar-17-1952 1.200000 I 12
+Evelyn Price Apr-28-1952 0.320000 D
+Noah Rivera Jun-28-1952 3.780000 I 75
+Olivia Stewart Jul-17-1952 0.380000 I 15
+Logan Lopez Jul-22-1952 4.210000 D
+Ava Hayes Jul-28-1952 3.120000 D
+Owen Powell Aug-6-1952 0.460000 D
+Eli Mitchell Oct-15-1952 4.030000 D
+Sophie Bryant Nov-9-1952 3.040000 I 9
+Charlotte Collins Nov-19-1952 2.160000 D
+Jackson James Nov-22-1952 1.400000 I 115
+Isabella Zhao Nov-27-1952 3.140000 D
+Jackson Bryant Dec-19-1952 2.970000 I 73
+Lucy Bryant Jan-6-1953 1.830000 I 18
+Lily Nguyen Mar-9-1953 0.550000 I 15
+Isabella Bennett Mar-23-1953 2.710000 I 89
+Jacob Bennett Mar-26-1953 2.550000 D
+Charlotte Parker Apr-19-1953 2.000000 I 24
+Brooklyn Thompson Jun-8-1953 1.840000 I 103
+Emma Price Jul-21-1953 2.020000 I 45
+Sebastian Hunter Aug-13-1953 1.950000 D
+Ethan Mitchell Aug-25-1953 3.240000 D
+William Jenkins Sep-6-1953 0.320000 D
+Emily Nguyen Sep-6-1953 1.650000 I 106
+Penelope Thompson Oct-5-1953 1.720000 D
+Brooklyn Jenkins Oct-13-1953 3.010000 I 71
+James Clark Oct-23-1953 0.000000 I 31
+Gabriel Mitchell Nov-17-1953 4.030000 D
+John Green Nov-24-1953 2.760000 D
+Amelia Jenkins Jan-13-1954 2.340000 D
+Avery Patel Feb-2-1954 2.090000 I 104
+Oliver Bailey Feb-3-1954 2.000000 I 98
+David Gonzales Feb-8-1954 3.380000 I 111
+Jackson Morgan Mar-5-1954 2.780000 D
+Hannah Kim Mar-10-1954 4.110000 D
+Daniel Lopez Mar-10-1954 3.130000 D
+Sophie Bell Mar-17-1954 1.000000 I 36
+Oliver Rivera Apr-4-1954 3.450000 I 119
+Olivia Gonzales Apr-15-1954 0.240000 I 67
+Ella Spencer Apr-15-1954 3.830000 I 1
+Ethan Gray May-26-1954 1.450000 I 113
+Sebastian Edwards Jun-2-1954 3.660000 D
+Penelope Sanchez Aug-7-1954 4.020000 D
+Mia Hunter Sep-27-1954 1.480000 D
+Ethan Li Oct-21-1954 0.060000 D
+Isabella Gray Nov-24-1954 1.470000 I 74
+James Martinez Dec-7-1954 3.760000 D
+Scarlett Hayes Dec-12-1954 3.280000 I 97
+Nora Jenkins Dec-27-1954 1.030000 D
+Lily Sanchez Dec-27-1954 1.340000 D
+Victoria Lee Jan-28-1955 3.510000 I 120
+Ava Bennett Feb-15-1955 3.430000 I 97
+Ava Bennett Feb-20-1955 2.020000 D
+Zoe Patel Apr-7-1955 0.460000 I 89
+William Bailey Apr-11-1955 0.960000 I 116
+Ethan Singh Apr-14-1955 2.820000 D
+Noah Edwards Apr-28-1955 3.290000 I 41
+Evelyn Sanchez Jun-11-1955 1.390000 D
+Emma Hughes Jul-5-1955 3.200000 I 40
+Evelyn Clark Aug-14-1955 3.270000 D
+Amelia Hayes Aug-18-1955 4.020000 D
+Owen Bowen Sep-4-1955 4.160000 I 2
+Harper Russell Sep-12-1955 2.820000 D
+Ryan Scott Oct-4-1955 3.400000 I 117
+Owen Diaz Nov-6-1955 2.950000 D
+Henry Bryant Nov-17-1955 0.910000 D
+David Bowen Dec-5-1955 1.440000 I 92
+Lily Turner Dec-22-1955 3.550000 D
+Eli Long Jan-7-1956 1.490000 I 106
+Luna Walker Jan-12-1956 0.210000 D
+Logan Chen Jan-28-1956 4.120000 I 80
+Harper Hall Mar-1-1956 2.810000 D
+Luna James Mar-22-1956 4.280000 D
+Liam James Apr-2-1956 1.450000 D
+Scarlett Powell Jul-11-1956 2.180000 I 53
+Zoe Gonzales Jul-20-1956 1.580000 I 54
+Liam Bailey Jul-22-1956 0.980000 I 91
+Ava Clark Aug-18-1956 3.310000 I 105
+Oliver Price Sep-19-1956 1.290000 I 85
+David Evans Oct-1-1956 2.880000 D
+Charlotte Bell Oct-27-1956 2.150000 D
+John Lee Dec-1-1956 3.960000 I 9
+Emily Mitchell Dec-1-1956 1.300000 I 18
+John Diaz Dec-27-1956 0.640000 D
+David Walker Jan-15-1957 0.210000 D
+Nathan James Jan-18-1957 1.870000 D
+Mia Fowler Feb-9-1957 1.700000 I 27
+Elizabeth Willis Feb-15-1957 0.170000 I 55
+Logan Willis Apr-6-1957 4.120000 I 79
+Emma Martinez Apr-10-1957 1.710000 D
+Noah Sanchez May-24-1957 1.290000 I 3
+Hannah Zhao Jul-5-1957 0.120000 I 80
+Ethan Zhao Jul-11-1957 1.560000 D
+Elizabeth Lewis Jul-20-1957 0.560000 D
+Aiden Adams Jul-27-1957 0.750000 I 43
+John Hall Aug-19-1957 0.130000 I 36
+Dylan Singh Oct-25-1957 2.800000 I 47
+Sophie Hayes Nov-10-1957 0.500000 D
+Liam Edwards Jan-6-1958 0.790000 I 63
+Abigail Wilson Jan-17-1958 1.760000 D
+Amelia Gonzales Jan-18-1958 3.150000 D
+Paisley Green Jan-22-1958 1.330000 D
+Dylan Hayes Mar-22-1958 2.470000 D
+Ava Hernandez Jul-13-1958 2.320000 I 43
+Brooklyn Jenkins Sep-2-1958 0.930000 I 87
+James Sanchez Oct-11-1958 3.140000 D
+Hannah Green Oct-19-1958 4.100000 I 48
+Jacob Foster Dec-21-1958 2.490000 D
+Jackson Russell Dec-22-1958 3.980000 D
+William Mitchell Dec-25-1958 2.360000 I 107
+Caleb Powell Jan-10-1959 1.680000 D
+Amelia Burns Feb-27-1959 2.770000 I 110
+Harper Martinez Feb-27-1959 1.340000 I 17
+Ava Green Apr-18-1959 3.730000 I 49
+Eli Diaz May-7-1959 0.480000 I 116
+Ella Parker Jul-2-1959 3.870000 I 111
+John Adams Jul-9-1959 4.250000 D
+Scarlett Diaz Jul-18-1959 4.010000 D
+Zoe Walker Jul-28-1959 0.200000 I 64
+David Gray Aug-23-1959 3.140000 D
+Samuel Hunter Sep-1-1959 2.170000 I 63
+John Burns Oct-23-1959 4.260000 D
+William Bennett Dec-8-1959 4.100000 I 34
+John Brown Feb-1-1960 0.310000 D
+Lucas Green Feb-1-1960 2.880000 I 107
+Owen Diaz Mar-8-1960 3.150000 D
+Mia Rivera Mar-26-1960 2.090000 I 116
+Samuel Bowen May-9-1960 4.070000 I 40
+Lily Walker May-11-1960 1.550000 I 40
+Ella Bowen Jun-22-1960 0.600000 D
+Charlotte Chen Jul-7-1960 0.320000 I 91
+Dylan Russell Sep-28-1960 3.810000 D
+Daniel Burns Oct-27-1960 0.260000 D
+Gabriel Powell Oct-27-1960 4.240000 I 9
+Nathan Price Nov-5-1960 4.280000 D
+Lucas Chen Nov-7-1960 2.970000 D
+Scarlett Scott Nov-21-1960 1.190000 D
+Sophia Lee Dec-12-1960 4.110000 D
+Scarlett Bryant Jan-4-1961 1.990000 I 43
+Ella Li Jan-7-1961 4.140000 D
+Emily Hunter Feb-17-1961 1.780000 D
+Charlotte Powell Feb-19-1961 3.650000 D
+Oliver Scott Feb-23-1961 1.640000 I 36
+Mia Kim Feb-24-1961 3.060000 I 83
+Eli Clark Mar-10-1961 3.560000 D
+Ella Foster Mar-10-1961 1.480000 D
+Henry Rivera Mar-13-1961 3.000000 D
+Isabella Rivera Aug-2-1961 2.250000 I 80
+Sebastian James Sep-13-1961 4.060000 D
+Sophie Gray Sep-20-1961 0.960000 D
+Nicholas Gray Nov-3-1961 0.330000 I 84
+Ethan Rivera Feb-17-1962 3.310000 I 66
+Oliver Russell May-1-1962 0.480000 I 86
+Dylan Hill May-15-1962 2.760000 I 69
+Elizabeth Howard Jun-13-1962 2.930000 D
+Ethan Diaz Aug-2-1962 0.910000 D
+Logan Li Aug-8-1962 2.210000 I 110
+Lily Foster Aug-15-1962 0.590000 I 24
+Daniel Morgan Oct-21-1962 2.130000 I 101
+Jacob Collins Nov-11-1962 3.360000 I 1
+Carter Moore Dec-4-1962 1.910000 I 102
+Sophia Spencer Dec-14-1962 1.390000 D
+William Clark Dec-19-1962 0.870000 I 27
+John Bennett Jan-5-1963 1.030000 I 120
+Samuel Nguyen Jan-11-1963 0.880000 I 16
+Isabella Price Jan-13-1963 1.540000 I 118
+Nora Wilson Jan-14-1963 3.310000 D
+Sophia Gonzales Feb-28-1963 1.200000 D
+David Stewart Mar-2-1963 2.850000 I 110
+Mila Foster Apr-5-1963 3.160000 I 76
+Charlotte Zhao Apr-8-1963 2.220000 I 90
+Olivia Long Apr-27-1963 3.330000 D
+Matthew Hayes May-5-1963 3.170000 I 117
+Sophia Singh May-9-1963 1.910000 I 14
+Liam Clark May-26-1963 0.130000 I 45
+Charlotte Bailey May-27-1963 4.200000 I 31
+Sophia Bryant Jun-23-1963 3.170000 D
+Oliver Gonzales Jun-28-1963 0.700000 I 22
+Sophie Adams Aug-9-1963 3.010000 I 108
+Lucas Bailey Aug-26-1963 3.810000 I 16
+Paisley Fowler Sep-7-1963 1.850000 D
+Lily Morgan Oct-4-1963 3.230000 D
+Eli Hughes Nov-2-1963 0.250000 I 51
+Aiden Gray Dec-1-1963 0.360000 I 36
+Oliver Nguyen Dec-27-1963 3.560000 I 33
+Ethan Moore Jan-16-1964 3.410000 I 1
+Daniel Green Jan-21-1964 2.900000 I 15
+Dylan Foster Apr-9-1964 1.980000 I 54
+Sebastian Kim Apr-18-1964 1.910000 D
+Paisley Turner Jul-1-1964 2.020000 I 74
+Ava Choi Jul-14-1964 3.060000 D
+Henry Spencer Jul-22-1964 1.630000 D
+Victoria Bell Jul-25-1964 2.790000 I 12
+Scarlett Gonzales Aug-8-1964 3.760000 D
+Zoe Gonzales Aug-20-1964 1.710000 I 119
+Mila Mitchell Sep-1-1964 0.920000 D
+Emily Nguyen Sep-13-1964 0.380000 I 40
+Aiden Singh Oct-6-1964 3.390000 I 119
+Carter Hernandez Oct-26-1964 3.580000 D
+Madison Lopez Dec-17-1964 0.730000 D
+Wyatt Morgan Dec-23-1964 0.110000 D
+Noah Hill Jan-14-1965 3.130000 I 30
+Jackson Turner Feb-2-1965 1.670000 I 57
+Amelia Bell Mar-3-1965 2.450000 I 44
+Dylan Li Mar-3-1965 0.230000 D
+Lucy Hill Mar-26-1965 0.630000 D
+Charlotte Hunter Apr-9-1965 1.680000 I 80
+Caleb Brown Apr-23-1965 4.150000 D
+Brooklyn Edwards Apr-28-1965 3.930000 D
+William Stewart May-4-1965 1.260000 D
+David Turner Jun-22-1965 1.920000 I 104
+Jacob Russell Jun-26-1965 1.230000 I 63
+Liam Thompson Jul-13-1965 3.770000 D
+Logan Gonzales Aug-14-1965 2.870000 D
+Lily Hernandez Aug-24-1965 1.140000 D
+Evelyn Zhao Sep-9-1965 4.240000 D
+Matthew Zhao Sep-24-1965 3.240000 I 41
+Evelyn Burns Oct-1-1965 2.550000 I 118
+Sophie Mitchell Nov-1-1965 0.500000 I 0
+Sophie Li Nov-22-1965 2.070000 I 27
+Ryan Sanchez Dec-2-1965 0.920000 D
+Noah Bell Dec-3-1965 0.350000 D
+Scarlett Hunter Dec-7-1965 3.450000 I 102
+Daniel Gonzales Dec-28-1965 4.170000 D
+Matthew Li Jan-20-1966 1.280000 D
+Emma Lee Feb-10-1966 2.570000 D
+Ava James Feb-11-1966 2.480000 D
+Abigail Edwards Feb-26-1966 2.750000 D
+Madison Rivera Apr-7-1966 0.160000 D
+Madison Diaz Apr-22-1966 2.790000 D
+Victoria Lopez Apr-22-1966 2.000000 D
+Dylan Edwards May-7-1966 3.390000 I 71
+Ella Bell May-19-1966 2.820000 I 92
+Emily Scott Jun-2-1966 3.640000 I 52
+David Rivera Jul-1-1966 0.260000 I 107
+Mason Hill Jul-15-1966 2.410000 I 65
+Eli Rivera Jul-18-1966 2.600000 I 79
+Evelyn Brown Aug-1-1966 1.710000 I 90
+James Clark Aug-20-1966 1.800000 D
+Harper Gomez Sep-9-1966 0.000000 I 54
+David Hayes Oct-8-1966 1.990000 D
+Hannah Li Oct-25-1966 2.000000 I 9
+Ella Spencer Nov-19-1966 4.170000 I 101
+Lucy Turner Dec-2-1966 1.380000 I 104
+Ryan Hughes Jan-23-1967 3.670000 D
+Emily Powell Feb-12-1967 2.440000 D
+Owen Moore Mar-4-1967 4.130000 D
+John Brown Apr-16-1967 3.590000 I 44
+Logan Morgan Apr-19-1967 3.390000 D
+Zoe Gray May-16-1967 1.250000 I 17
+Charlotte Bryant May-21-1967 1.000000 D
+Samuel Russell May-21-1967 0.140000 D
+Liam Bryant May-23-1967 3.550000 D
+Mason Parker Jun-11-1967 1.590000 D
+Lucas Price Jun-26-1967 2.000000 D
+Victoria Choi Jul-5-1967 3.870000 D
+Dylan Long Jul-6-1967 3.840000 D
+Lily Gomez Jul-11-1967 1.190000 I 89
+William Singh Jul-22-1967 0.940000 D
+Caleb Spencer Sep-1-1967 2.610000 D
+Eli Gomez Sep-26-1967 0.800000 I 5
+Nicholas Choi Nov-11-1967 2.790000 D
+James Wilson Nov-25-1967 1.920000 I 12
+Henry Willis Dec-3-1967 3.840000 D
+Aiden Price Dec-6-1967 2.520000 D
+Harper Lewis Dec-8-1967 0.530000 I 41
+Matthew Parker Jan-4-1968 3.040000 I 85
+Ethan Willis Feb-2-1968 0.570000 I 29
+Mason Wilson Feb-26-1968 0.020000 I 21
+Nathan Howard Feb-27-1968 0.300000 I 117
+Mia Parker Mar-15-1968 0.810000 I 36
+John Kim Apr-23-1968 3.410000 I 1
+Victoria Foster Jul-6-1968 0.820000 D
+Lily Moore Jul-7-1968 3.310000 I 3
+Avery Gomez Jul-18-1968 4.300000 D
+Madison Lee Jul-27-1968 1.300000 I 40
+Emily Choi Aug-8-1968 1.440000 I 49
+Mason Spencer Jan-3-1969 1.430000 I 21
+Sophia Gray Feb-15-1969 0.550000 I 108
+Ava Powell Feb-26-1969 1.620000 I 110
+Penelope Long Apr-9-1969 1.250000 I 79
+Daniel Zhao May-13-1969 0.360000 I 8
+Harper Green May-14-1969 0.750000 D
+Nathan Singh May-23-1969 2.330000 I 105
+Abigail Clark Jun-18-1969 1.210000 D
+Ethan Kim Sep-2-1969 3.860000 D
+Caleb Patel Oct-1-1969 3.510000 I 35
+Lucas Hall Oct-25-1969 3.800000 I 81
+Victoria Rivera Nov-19-1969 4.180000 I 19
+Harper Long Nov-28-1969 1.080000 I 96
+Liam Hughes Dec-7-1969 0.960000 D
+Penelope Patel Dec-24-1969 3.630000 D
+Ava Adams Feb-22-1970 2.480000 I 119
+Gabriel Hernandez Mar-1-1970 3.740000 D
+Ella Moore Mar-14-1970 4.110000 D
+James Jenkins Apr-15-1970 3.400000 D
+Luna Gonzales Apr-17-1970 0.870000 D
+Avery Willis May-1-1970 0.890000 I 53
+Aria Adams May-27-1970 0.920000 I 80
+Nicholas Scott Jul-8-1970 3.070000 D
+Amelia Price Sep-11-1970 3.850000 D
+Owen Li Oct-2-1970 3.420000 I 107
+Emma Jenkins Oct-4-1970 0.940000 D
+Aria Evans Nov-8-1970 2.020000 I 100
+Madison Spencer Nov-20-1970 2.750000 D
+Sophie Scott Feb-10-1971 0.140000 I 40
+Mia Fowler Feb-22-1971 3.790000 D
+Nicholas Choi Mar-19-1971 0.820000 I 69
+Emma Lewis Apr-1-1971 0.740000 D
+Abigail Mitchell Apr-15-1971 1.460000 I 45
+Henry Hernandez Apr-24-1971 1.950000 D
+Luna Hill Jun-1-1971 3.220000 D
+Lily Stewart Jul-6-1971 1.440000 I 68
+Carter Walker Jul-28-1971 3.790000 D
+Harper Hall Aug-8-1971 3.790000 I 13
+Abigail Hernandez Aug-15-1971 0.360000 I 2
+Henry Choi Aug-23-1971 2.960000 I 111
+Mila Sanchez Sep-3-1971 2.870000 I 118
+Aria Howard Sep-6-1971 2.320000 I 70
+Sophie Wilson Sep-19-1971 0.460000 D
+Emma Zhao Oct-14-1971 0.450000 D
+Aiden Parker Oct-28-1971 2.390000 D
+Mia Clark Nov-3-1971 0.050000 D
+Lily Bryant Nov-5-1971 2.740000 D
+Nora Hughes Nov-17-1971 3.840000 I 108
+Victoria Brown Nov-19-1971 2.580000 D
+Henry Bailey Nov-26-1971 0.820000 D
+Sophie Evans Dec-17-1971 3.150000 I 97
+Logan Scott Jan-14-1972 0.150000 I 116
+Jackson Rodriguez Feb-25-1972 0.490000 I 15
+Evelyn Patel Mar-9-1972 1.360000 I 74
+Noah Clark Apr-4-1972 1.770000 I 71
+Lucas Foster Apr-10-1972 4.100000 D
+Sophie Lopez Jun-11-1972 1.000000 D
+Daniel Gonzales Jun-12-1972 1.560000 I 35
+Aiden Hunter Jun-14-1972 0.220000 D
+Ava Bailey Jun-21-1972 2.290000 D
+Owen Long Aug-15-1972 1.020000 D
+Aiden Collins Aug-24-1972 2.160000 I 60
+Connor Brown Sep-24-1972 0.790000 D
+Samuel Burns Oct-3-1972 0.850000 I 1
+Isabella Rivera Nov-1-1972 0.360000 D
+Owen Foster Nov-18-1972 0.850000 I 9
+Lucy Zhao Dec-5-1972 1.550000 I 118
+Sebastian Gomez Jan-22-1973 1.130000 I 42
+Mason Turner Jan-24-1973 1.080000 D
+Lucy Clark Mar-11-1973 3.140000 D
+Olivia Choi Mar-18-1973 3.010000 D
+Wyatt Morgan May-4-1973 0.760000 D
+Evelyn Spencer Jul-5-1973 3.210000 D
+Isabella James Jul-20-1973 0.630000 I 62
+Jackson Rivera Sep-8-1973 2.610000 I 111
+Gabriel Bennett Sep-21-1973 3.870000 I 94
+Aria Howard Nov-3-1973 2.140000 I 48
+David Rivera Nov-9-1973 1.520000 I 28
+Emily Hernandez Jan-8-1974 4.060000 D
+Paisley Evans Jan-10-1974 2.120000 D
+Paisley Chen Mar-12-1974 2.900000 I 83
+Ava Spencer Mar-13-1974 1.310000 I 46
+Avery Martinez Apr-21-1974 2.870000 D
+Dylan Howard Apr-23-1974 0.940000 I 7
+Matthew Collins Jun-9-1974 1.050000 I 67
+Abigail Willis Jun-15-1974 0.330000 I 112
+Sebastian Price Jul-9-1974 1.240000 I 103
+Oliver Burns Sep-24-1974 1.710000 D
+Luna Bennett Sep-27-1974 1.130000 I 31
+Penelope Wilson Nov-2-1974 3.270000 I 20
+Hannah Hall Nov-10-1974 3.560000 D
+Olivia Burns Dec-5-1974 0.690000 I 81
+Jackson Scott Dec-6-1974 2.840000 I 74
+Mila Collins Jan-12-1975 1.880000 D
+Aria Hayes Jan-20-1975 1.100000 D
+Oliver Choi Feb-12-1975 3.940000 D
+David Rodriguez Mar-21-1975 0.680000 I 89
+Isabella Rivera Apr-2-1975 2.060000 I 59
+Carter Powell May-19-1975 2.750000 I 70
+Mia Thompson Jun-11-1975 3.020000 D
+Victoria Kim Jun-24-1975 2.480000 I 108
+Caleb Thompson Jun-24-1975 2.560000 D
+Sebastian Bennett Jun-26-1975 1.290000 D
+Elizabeth Walker Jul-10-1975 1.490000 D
+Hannah Rivera Aug-15-1975 0.010000 I 45
+Evelyn Rivera Sep-9-1975 2.470000 I 24
+Victoria Jenkins Sep-11-1975 1.920000 I 115
+John Hall Sep-25-1975 0.990000 D
+Zoe Nguyen Oct-25-1975 2.140000 D
+Logan Powell Nov-10-1975 3.500000 I 79
+Mila Li Nov-13-1975 1.450000 D
+Evelyn Scott Nov-14-1975 3.130000 D
+Aiden Foster Dec-20-1975 1.150000 I 53
+Liam Gonzales Feb-7-1976 3.570000 I 119
+David Lee Feb-24-1976 0.030000 I 108
+Elizabeth Bennett Mar-12-1976 1.530000 I 34
+Noah Sanchez Mar-12-1976 2.800000 D
+Carter Jenkins Mar-13-1976 2.520000 I 63
+Connor Long Mar-20-1976 1.140000 I 82
+Aria Moore Mar-28-1976 1.900000 I 76
+Wyatt Brown May-16-1976 2.040000 I 93
+Liam Hughes Jun-19-1976 3.630000 D
+Daniel Powell Aug-14-1976 0.190000 D
+Emily Burns Oct-5-1976 1.510000 D
+Ava Bell Oct-15-1976 2.900000 D
+Lucas Lee Oct-19-1976 2.070000 I 0
+David Adams Oct-21-1976 1.580000 D
+Mason Scott Dec-8-1976 1.540000 D
+Hannah Bowen Feb-11-1977 4.090000 D
+Sebastian Patel Feb-28-1977 1.080000 I 89
+Caleb Hernandez Mar-2-1977 0.590000 D
+Paisley Thompson Mar-15-1977 0.220000 I 81
+Nora Adams Mar-27-1977 1.100000 D
+Lucy Willis Apr-21-1977 3.430000 I 116
+John Gonzales Apr-25-1977 3.410000 I 12
+Daniel Lopez May-13-1977 3.460000 D
+Caleb Adams Jun-21-1977 2.070000 D
+Ella Green Jul-18-1977 1.160000 D
+Evelyn Edwards Aug-14-1977 0.930000 D
+Charlotte Gray Aug-17-1977 2.990000 D
+Lucas Bennett Sep-9-1977 3.080000 D
+William Gomez Oct-11-1977 4.010000 D
+Elizabeth Willis Nov-2-1977 2.180000 I 101
+Mason Hayes Jan-2-1978 2.850000 D
+Gabriel Hall Jan-6-1978 1.110000 I 6
+Nathan Gray Jan-13-1978 1.270000 D
+Isabella Burns Jan-20-1978 3.410000 D
+Logan Powell Jan-25-1978 0.680000 D
+James Jenkins Feb-11-1978 4.000000 D
+Matthew Jenkins Feb-24-1978 2.920000 I 13
+Sophie Nguyen Feb-25-1978 0.930000 D
+Brooklyn James Mar-6-1978 3.830000 D
+Avery Adams Mar-17-1978 4.180000 I 0
+Abigail Lewis May-3-1978 1.870000 D
+Henry Jenkins May-19-1978 2.020000 D
+Carter Hill May-20-1978 2.470000 D
+Ava Scott May-23-1978 2.360000 D
+David Zhao Aug-2-1978 0.590000 I 1
+Elizabeth Price Oct-10-1978 2.980000 D
+Mila Clark Feb-3-1979 3.820000 D
+Evelyn Spencer Feb-3-1979 2.740000 D
+Ryan Spencer Feb-20-1979 2.080000 D
+Brooklyn Gomez Mar-15-1979 1.100000 D
+Matthew Long Apr-2-1979 2.130000 D
+Nathan Hughes Apr-12-1979 1.680000 I 107
+Mila Singh Apr-12-1979 4.100000 I 78
+Mila Scott Apr-20-1979 2.040000 I 23
+Elizabeth Rivera Apr-23-1979 2.910000 I 11
+Liam Rodriguez Jun-5-1979 1.450000 D
+Samuel Lee Jul-23-1979 0.560000 I 100
+John Choi Aug-18-1979 1.900000 I 78
+Gabriel Fowler Aug-23-1979 0.690000 D
+Jackson Howard Oct-13-1979 0.140000 I 57
+Sophie Patel Nov-24-1979 0.200000 I 96
+Lucas Price Nov-25-1979 0.370000 I 18
+Aiden Bell Jan-24-1980 3.940000 I 65
+William Edwards Apr-10-1980 0.130000 D
+Lucy Collins Apr-14-1980 2.220000 D
+Isabella Zhao Apr-21-1980 3.210000 I 76
+David Turner May-8-1980 0.750000 D
+Paisley Parker May-17-1980 3.400000 D
+Ethan Zhao May-19-1980 1.060000 I 2
+Noah Bell May-24-1980 3.410000 I 86
+Nathan Sanchez Jun-9-1980 3.230000 D
+David Thompson Jun-26-1980 2.180000 D
+Paisley Wilson Sep-12-1980 1.300000 D
+Oliver Clark Sep-16-1980 1.260000 D
+James Thompson Oct-11-1980 0.300000 I 75
+Samuel Long Nov-5-1980 3.140000 D
+Avery Morgan Nov-26-1980 0.630000 I 90
+Elizabeth Moore Dec-16-1980 0.460000 I 104
+Mila Lopez Jan-8-1981 1.080000 D
+Charlotte Mitchell Feb-19-1981 1.040000 I 102
+Sebastian Gray Mar-10-1981 2.530000 D
+Aiden Chen Apr-13-1981 3.540000 D
+Matthew Chen May-22-1981 1.210000 D
+Ryan Choi Jun-14-1981 0.420000 D
+Jackson Choi Jun-28-1981 0.740000 D
+Sophie Fowler Oct-8-1981 4.220000 I 30
+Paisley Rivera Dec-9-1981 2.500000 I 105
+Sebastian Bell Jan-12-1982 2.340000 I 42
+Madison Rivera Jan-20-1982 3.620000 I 32
+Mia Long Jan-27-1982 3.670000 I 85
+Carter Collins Mar-4-1982 2.590000 D
+Avery Gray Mar-23-1982 3.260000 D
+Jackson Kim Apr-9-1982 0.460000 I 32
+Luna Moore Apr-16-1982 2.680000 I 73
+Matthew Gonzales Apr-23-1982 0.250000 I 105
+Gabriel Jenkins May-22-1982 2.680000 I 93
+Oliver Evans Jun-7-1982 2.670000 I 95
+Avery Thompson Jun-10-1982 2.950000 D
+Aiden Martinez Jun-11-1982 2.420000 D
+Victoria Moore Jun-15-1982 0.640000 I 19
+Evelyn Bailey Jun-26-1982 2.650000 I 100
+Olivia Hernandez Sep-26-1982 1.720000 I 119
+Mila Kim Nov-1-1982 0.180000 I 53
+Harper Rivera Nov-5-1982 4.230000 I 15
+Paisley Mitchell Nov-7-1982 0.890000 I 86
+Owen Willis Nov-13-1982 3.530000 D
+Daniel Burns Nov-26-1982 0.770000 I 82
+Victoria Gomez Apr-5-1983 3.680000 I 60
+Ava Lee May-6-1983 0.010000 D
+Samuel Hernandez May-23-1983 2.450000 I 52
+Nathan Hunter Aug-1-1983 0.420000 D
+Penelope Foster Aug-27-1983 0.320000 I 21
+Logan Hunter Sep-4-1983 4.030000 I 73
+Carter Turner Oct-8-1983 0.060000 D
+Isabella Clark Nov-16-1983 0.540000 I 101
+Amelia Zhao Nov-22-1983 0.550000 I 33
+Sophie Patel Jan-5-1984 0.840000 I 1
+Eli Rodriguez Jan-21-1984 4.150000 I 71
+Scarlett Scott Jan-26-1984 1.080000 D
+Nora Evans Jan-27-1984 2.470000 D
+Noah Collins Feb-6-1984 0.930000 I 70
+Victoria Scott Apr-28-1984 1.190000 I 114
+Carter Nguyen May-7-1984 0.860000 D
+Logan Parker May-24-1984 0.670000 D
+Caleb Nguyen Jun-4-1984 1.510000 I 19
+Mia Bell Jul-12-1984 2.410000 D
+Aria Bailey Jul-26-1984 0.100000 I 33
+Matthew Bell Sep-7-1984 3.450000 I 11
+Gabriel Hughes Oct-7-1984 2.760000 D
+Jacob Hernandez Oct-12-1984 1.920000 I 26
+Dylan Foster Dec-5-1984 1.790000 I 87
+Evelyn Scott Jan-2-1985 3.970000 I 81
+Daniel Bryant Jan-4-1985 0.860000 D
+Carter Bryant Jan-16-1985 3.280000 D
+Mila Nguyen Feb-17-1985 3.610000 I 29
+Hannah Patel Feb-26-1985 3.310000 I 5
+Mia Russell Mar-19-1985 1.140000 I 120
+Dylan Singh Apr-9-1985 1.790000 D
+Carter Moore May-11-1985 0.880000 D
+Logan Choi May-14-1985 0.120000 D
+Elizabeth Edwards May-15-1985 2.830000 D
+Sebastian Lewis May-27-1985 3.900000 I 26
+Brooklyn Gomez Jul-1-1985 3.930000 D
+Nora Hayes Jul-2-1985 3.430000 D
+Evelyn Gray Jul-3-1985 2.960000 I 50
+Elizabeth Clark Jul-9-1985 0.590000 D
+James Long Jul-19-1985 2.800000 I 91
+Daniel Burns Jul-21-1985 4.100000 D
+Abigail Zhao Aug-28-1985 3.200000 D
+Victoria Patel Oct-3-1985 2.130000 D
+Aria James Oct-13-1985 1.340000 D
+Hannah Diaz Oct-28-1985 1.750000 D
+Brooklyn Gonzales Nov-2-1985 0.030000 I 94
+Sophia Russell Nov-22-1985 1.280000 D
+Nicholas Lewis Dec-10-1985 0.440000 D
+Sebastian Turner Dec-23-1985 2.700000 D
+Oliver Gray Jan-6-1986 1.870000 D
+Penelope Hill Jan-8-1986 2.780000 I 37
+Noah Fowler Jan-9-1986 0.370000 D
+Charlotte Patel Mar-1-1986 1.060000 D
+Noah Willis Mar-15-1986 0.360000 D
+Nora Fowler Mar-28-1986 4.140000 D
+Zoe Hayes Apr-2-1986 1.680000 D
+Liam Choi Apr-16-1986 0.730000 I 106
+Henry Morgan Apr-19-1986 1.580000 D
+Madison Lopez Jun-23-1986 3.450000 I 110
+Gabriel Collins Aug-1-1986 4.090000 D
+Brooklyn Moore Aug-13-1986 1.520000 I 97
+Owen Hunter Aug-14-1986 3.010000 I 9
+Owen Parker Sep-7-1986 0.310000 D
+Aria Thompson Sep-15-1986 2.800000 I 14
+Brooklyn Bennett Dec-1-1986 0.380000 I 114
+James Diaz Dec-18-1986 1.740000 D
+Hannah Zhao Jan-15-1987 0.300000 I 6
+Lucy Brown Jan-18-1987 0.380000 D
+Harper Hunter Mar-7-1987 1.800000 D
+Penelope Mitchell Apr-2-1987 0.760000 I 42
+Mason Morgan May-20-1987 2.630000 I 10
+Henry Mitchell May-22-1987 1.800000 D
+Matthew Hernandez Jun-21-1987 3.430000 I 54
+Nathan Hayes Sep-10-1987 1.200000 D
+Lucy Collins Oct-21-1987 0.890000 D
+Sophia Evans Nov-9-1987 2.340000 I 91
+Brooklyn Brown Dec-9-1987 1.790000 D
+Connor Diaz Dec-26-1987 0.150000 I 29
+Lucas Burns Mar-22-1988 1.440000 I 19
+Elizabeth Russell Apr-13-1988 3.120000 D
+Dylan Foster May-3-1988 1.600000 I 66
+Ethan Hunter May-11-1988 2.050000 I 118
+Penelope Li May-14-1988 3.320000 D
+Wyatt Wilson May-20-1988 2.680000 D
+Liam Willis May-23-1988 3.790000 D
+Hannah Clark Jun-8-1988 3.540000 I 24
+Aiden Price Jun-23-1988 0.810000 D
+Sophie Rivera Jun-26-1988 1.720000 D
+Matthew Gomez Jul-2-1988 3.240000 I 75
+Dylan Hunter Jul-2-1988 1.800000 D
+Evelyn Nguyen Jul-9-1988 3.810000 I 45
+Sophie Bowen Aug-1-1988 3.020000 D
+Logan Singh Sep-23-1988 2.210000 D
+Lucy James Sep-28-1988 3.220000 I 116
+Zoe Brown Oct-2-1988 1.400000 I 28
+Luna Evans Oct-26-1988 0.020000 I 43
+Henry Fowler Dec-3-1988 0.280000 D
+Logan Bennett Dec-9-1988 2.240000 I 59
+Mason Jenkins Dec-18-1988 3.410000 D
+Oliver Jenkins Jan-22-1989 3.240000 I 73
+Henry Rivera Feb-5-1989 1.370000 D
+Amelia Li Feb-25-1989 2.440000 D
+Oliver Walker Mar-24-1989 3.120000 I 110
+Ella Willis Mar-27-1989 1.520000 D
+David Parker Apr-27-1989 1.390000 D
+Ava Stewart Apr-28-1989 0.760000 D
+Lily Long May-13-1989 2.140000 D
+Charlotte Bennett Jun-4-1989 0.950000 I 66
+Nicholas Hill Jun-19-1989 2.010000 D
+Nora Lee Jul-26-1989 3.270000 D
+Aiden Gonzales Sep-8-1989 2.290000 D
+Ella Rodriguez Sep-16-1989 0.320000 I 0
+Henry Bell Nov-3-1989 1.820000 I 71
+Eli Kim Nov-19-1989 3.470000 I 21
+David Chen Nov-22-1989 2.080000 I 40
+Sophie Bowen Dec-7-1989 3.700000 I 93
+Sophia Morgan Dec-26-1989 1.390000 D
+Isabella Rivera Jan-3-1990 0.180000 D
+Ryan Rodriguez Feb-23-1990 3.570000 I 115
+Ella Hunter Apr-13-1990 3.090000 I 28
+Nathan Zhao Apr-24-1990 1.520000 I 11
+Oliver James Apr-26-1990 4.110000 D
+Elizabeth Bowen May-2-1990 0.740000 I 12
+Samuel Bowen May-2-1990 2.600000 D
+Connor Kim May-8-1990 2.000000 D
+James Green Jun-14-1990 0.830000 I 25
+Emma Gray Jun-22-1990 3.620000 I 14
+Madison Gonzales Jul-3-1990 2.030000 I 23
+Wyatt Li Jul-6-1990 4.290000 I 19
+Evelyn Martinez Sep-22-1990 3.080000 I 61
+Scarlett Jenkins Oct-23-1990 1.040000 D
+Aiden Singh Nov-4-1990 3.470000 D
+Madison Li Nov-18-1990 2.690000 D
+Jackson Nguyen Nov-24-1990 4.000000 D
+Henry Moore Dec-18-1990 4.290000 I 64
+Sebastian Moore Jan-10-1991 2.160000 D
+Amelia Collins Feb-8-1991 2.590000 D
+Henry Singh Feb-13-1991 1.670000 I 61
+Lucas Turner Feb-27-1991 0.790000 I 96
+Avery Parker Mar-8-1991 2.430000 I 46
+Victoria Hernandez Apr-8-1991 1.430000 D
+Samuel Bailey Jun-13-1991 4.000000 I 4
+Liam Green Jul-14-1991 3.580000 D
+Nathan Adams Jul-16-1991 3.880000 I 119
+Harper Fowler Jul-20-1991 2.990000 D
+Mila Collins Jul-25-1991 3.090000 D
+William Rodriguez Aug-9-1991 3.130000 D
+Owen Price Sep-10-1991 2.790000 D
+Ava Clark Sep-14-1991 2.860000 I 113
+Daniel Bryant Oct-10-1991 3.950000 D
+Nathan Bowen Oct-13-1991 3.670000 D
+David Rivera Dec-14-1991 3.300000 I 8
+Mason Moore Dec-15-1991 1.750000 D
+Olivia Willis Dec-24-1991 1.690000 D
+Nathan Russell Jan-24-1992 1.860000 I 117
+Noah Hill Jan-27-1992 2.300000 I 69
+Paisley Gomez Feb-1-1992 3.660000 I 7
+Nicholas Bell Feb-12-1992 3.680000 D
+Emma Stewart Feb-27-1992 4.010000 I 66
+Paisley Willis Apr-8-1992 0.280000 D
+Matthew Walker Apr-14-1992 1.230000 I 47
+James Foster May-2-1992 1.290000 D
+Harper Spencer May-16-1992 0.460000 I 75
+William Diaz Jun-24-1992 2.400000 D
+Elizabeth Bowen Jul-25-1992 3.420000 I 109
+Logan Hernandez Aug-26-1992 3.100000 I 94
+Nora Russell Sep-8-1992 2.880000 I 40
+Ella Jenkins Sep-10-1992 1.840000 I 7
+Eli Hayes Oct-11-1992 4.160000 D
+Isabella Wilson Nov-2-1992 3.950000 I 94
+Zoe Scott Nov-8-1992 3.670000 I 32
+Victoria Sanchez Nov-19-1992 0.860000 D
+Paisley Turner Dec-11-1992 1.740000 D
+Nathan Stewart Jan-26-1993 3.020000 D
+Matthew Parker Jan-27-1993 2.410000 D
+Matthew Rivera Mar-19-1993 4.170000 D
+Paisley Hayes May-14-1993 3.930000 I 116
+Samuel Lee May-15-1993 1.880000 D
+Lucas Scott May-25-1993 0.950000 D
+Ethan Rivera May-26-1993 2.600000 D
+Aiden Rivera Jun-6-1993 3.510000 I 115
+Harper Powell Jun-14-1993 1.660000 I 10
+Penelope Long Aug-12-1993 3.150000 D
+Mila Lee Aug-16-1993 3.580000 D
+Mason Long Aug-16-1993 1.430000 D
+Wyatt Gonzales Aug-28-1993 2.770000 D
+Ella Rivera Sep-23-1993 1.080000 I 36
+David Scott Dec-10-1993 2.450000 D
+Mia Bell Jan-4-1994 0.890000 D
+Isabella Hill Jan-5-1994 1.230000 D
+Amelia Mitchell Jan-23-1994 1.500000 D
+Elizabeth Bryant Feb-3-1994 2.690000 D
+Sophia Rivera Mar-25-1994 0.690000 D
+Samuel Thompson Apr-2-1994 0.190000 I 71
+Sophia Mitchell May-8-1994 1.510000 D
+Connor Choi May-20-1994 4.110000 D
+Ava Burns Jun-3-1994 2.610000 D
+Jackson Scott Jun-3-1994 3.040000 I 90
+Owen Patel Jun-20-1994 0.950000 D
+Lily James Jul-8-1994 0.620000 I 116
+Caleb Brown Jul-9-1994 1.600000 D
+Ava Fowler Jul-9-1994 1.310000 I 84
+Mia Chen Sep-21-1994 2.990000 I 1
+Madison Scott Oct-4-1994 2.540000 I 1
+Carter Morgan Oct-27-1994 2.810000 D
+Olivia Lee Nov-3-1994 0.730000 D
+Emily Long Nov-12-1994 1.020000 I 48
+Lucy Lopez Nov-16-1994 3.180000 D
+Amelia Gonzales Nov-17-1994 1.520000 I 24
+Ella Rivera Dec-19-1994 3.080000 D
+Connor Bailey Dec-25-1994 0.400000 I 0
+Daniel Lopez Feb-27-1995 1.000000 I 98
+Paisley Martinez Mar-15-1995 0.350000 D
+Olivia Green Mar-20-1995 3.880000 I 96
+Victoria Parker Jun-9-1995 0.710000 I 81
+John Hill Jun-11-1995 3.670000 D
+Dylan Green Aug-10-1995 0.140000 D
+Logan Powell Aug-12-1995 4.180000 I 46
+Penelope Moore Aug-26-1995 4.010000 D
+Wyatt Jenkins Sep-4-1995 3.800000 I 45
+John Powell Sep-8-1995 3.640000 D
+Logan Chen Sep-20-1995 1.330000 I 101
+Paisley Price Oct-5-1995 0.810000 I 99
+David Burns Nov-15-1995 0.150000 I 84
+Abigail Scott Jan-1-1996 0.420000 D
+Mason Burns Jan-20-1996 3.370000 D
+Scarlett Fowler Feb-12-1996 2.200000 D
+Nicholas Choi Mar-28-1996 3.210000 I 9
+Caleb Green Apr-18-1996 1.100000 I 116
+Charlotte Spencer Apr-22-1996 2.270000 I 26
+Sebastian Martinez Apr-26-1996 0.030000 I 61
+Liam Lewis May-4-1996 3.300000 I 40
+Ethan Turner Jun-25-1996 2.360000 D
+Sophie Li Jul-7-1996 4.190000 I 100
+Paisley Singh Jul-19-1996 0.470000 I 105
+Olivia Parker Aug-4-1996 0.360000 I 66
+Avery James Aug-22-1996 3.760000 D
+Nora Kim Sep-21-1996 0.930000 D
+Evelyn Patel Nov-16-1996 3.190000 I 102
+Wyatt Lee Feb-8-1997 1.720000 I 115
+Avery Zhao Feb-23-1997 1.990000 I 9
+Ryan Hayes Feb-28-1997 2.390000 I 73
+Samuel Bowen Mar-17-1997 3.970000 D
+Dylan Bell May-3-1997 1.170000 I 46
+Victoria Green Jul-17-1997 1.340000 I 54
+Victoria Diaz Jul-22-1997 3.900000 D
+Aiden Morgan Sep-14-1997 1.560000 D
+Lucy Jenkins Sep-17-1997 2.460000 I 109
+Logan Foster Oct-8-1997 0.880000 D
+Zoe Walker Oct-8-1997 3.560000 I 100
+Carter Hughes Oct-23-1997 0.490000 D
+Daniel James Jan-23-1998 2.430000 D
+Sophie Clark Feb-3-1998 3.630000 I 73
+Zoe Evans Feb-19-1998 2.150000 D
+Carter Adams Apr-5-1998 1.340000 I 0
+Mia Gomez Apr-9-1998 2.020000 D
+Caleb Brown Apr-23-1998 3.200000 D
+Aria Morgan May-9-1998 0.830000 I 30
+Victoria Wilson Jun-2-1998 3.350000 D
+Avery Moore Jun-18-1998 0.970000 I 104
+Sophia Bailey Jun-25-1998 2.960000 I 39
+Mia Lee Jul-5-1998 3.560000 D
+Liam Long Jul-26-1998 2.420000 D
+Isabella Lopez Aug-5-1998 0.800000 I 30
+Avery Parker Aug-5-1998 0.510000 D
+Olivia Kim Sep-24-1998 3.450000 I 33
+Scarlett Patel Oct-22-1998 0.740000 I 79
+Penelope Walker Oct-25-1998 3.570000 D
+Sophia Willis Jan-4-1999 0.070000 I 72
+Mia Hernandez Jan-7-1999 3.370000 I 14
+Caleb Gonzales Feb-5-1999 0.820000 I 43
+Emily Martinez Feb-11-1999 1.350000 D
+Elizabeth Clark Feb-21-1999 1.260000 D
+Liam Walker Mar-16-1999 3.840000 I 74
+Abigail Green Mar-20-1999 0.490000 I 5
+Scarlett Hill May-12-1999 3.570000 I 16
+Brooklyn Thompson Jul-8-1999 0.510000 I 41
+Mason Chen Jul-13-1999 0.960000 I 90
+Lily Bell Aug-10-1999 1.510000 I 20
+Avery Hayes Oct-5-1999 2.700000 D
+Isabella Hall Oct-11-1999 3.080000 I 45
+Owen Russell Oct-12-1999 3.200000 I 49
+Charlotte Howard Jan-5-2000 4.090000 I 72
+Carter Bell Feb-6-2000 2.680000 D
+Harper Moore Mar-16-2000 1.380000 D
+Samuel Jenkins May-7-2000 0.450000 D
+Elizabeth Bryant May-16-2000 2.100000 D
+Dylan Diaz Jun-4-2000 0.270000 D
+Mila Bailey Jul-20-2000 0.510000 D
+Gabriel Kim Jul-22-2000 3.380000 D
+Aiden Lopez Sep-14-2000 2.400000 D
+Paisley Zhao Oct-21-2000 2.830000 I 100
+Emma Rivera Oct-26-2000 2.720000 D
+Henry Patel Jan-26-2001 2.640000 I 45
+Elizabeth Price Feb-3-2001 3.210000 D
+Ella Mitchell Feb-12-2001 0.150000 I 47
+Jackson Moore Mar-14-2001 0.760000 D
+Ethan Gonzales Mar-21-2001 0.520000 D
+Avery Russell Mar-26-2001 4.210000 D
+Connor Bryant Apr-7-2001 0.780000 D
+Ava Martinez Apr-17-2001 1.740000 D
+Sebastian Hernandez Apr-21-2001 3.260000 D
+Wyatt Parker Apr-22-2001 0.580000 D
+Evelyn Gonzales Apr-25-2001 1.710000 D
+Eli Howard May-2-2001 3.170000 D
+Gabriel Lewis Jun-11-2001 0.170000 I 10
+Ava Nguyen Jun-17-2001 1.180000 D
+Logan Jenkins Jul-17-2001 0.170000 I 60
+Mia Thompson Aug-23-2001 1.220000 I 63
+Scarlett Mitchell Sep-24-2001 2.530000 D
+Eli Martinez Sep-25-2001 0.840000 I 18
+Mia Lopez Sep-28-2001 0.400000 D
+Emma Edwards Dec-7-2001 1.670000 I 97
+Lucy Bennett Jan-3-2002 1.550000 D
+Nathan Chen Jan-7-2002 3.970000 I 110
+Ella Lee Jan-13-2002 2.880000 I 112
+Oliver Spencer Jan-14-2002 1.760000 I 60
+Penelope Powell Jan-19-2002 1.580000 I 116
+Penelope Hall Mar-1-2002 2.160000 D
+Logan Mitchell Mar-15-2002 1.970000 D
+Gabriel Stewart Mar-18-2002 2.440000 D
+Lucy Edwards Mar-24-2002 0.600000 D
+Henry Li Mar-26-2002 3.940000 I 104
+Penelope Wilson May-12-2002 3.000000 I 43
+Samuel Hall Aug-13-2002 3.580000 I 20
+Brooklyn Evans Sep-25-2002 4.020000 D
+Sebastian Singh Oct-21-2002 0.960000 D
+Liam Diaz Nov-2-2002 1.700000 D
+Harper Gomez Nov-23-2002 0.760000 D
+Olivia Bowen Dec-5-2002 1.610000 D
+Penelope Bailey Jan-11-2003 0.380000 I 96
+Zoe Morgan Jan-16-2003 1.090000 I 113
+James Russell Jan-19-2003 2.280000 I 68
+Connor Powell Mar-1-2003 4.210000 D
+Logan Li Mar-8-2003 0.430000 I 57
+Logan James Apr-15-2003 0.520000 D
+Nicholas Russell Apr-15-2003 0.290000 D
+Connor Kim Jun-6-2003 3.100000 I 119
+John Hill Jun-8-2003 3.150000 I 55
+Isabella Singh Jun-10-2003 2.880000 I 109
+Matthew Hunter Jun-25-2003 1.390000 D
+Charlotte Gonzales Jul-15-2003 0.920000 D
+Amelia Parker Aug-7-2003 3.700000 I 49
+Elizabeth Scott Aug-23-2003 1.600000 I 44
+Daniel James Sep-5-2003 1.080000 I 73
+Lucas Hughes Oct-13-2003 2.470000 I 107
+Paisley Long Nov-18-2003 2.120000 D
+Brooklyn James Dec-16-2003 1.400000 D
+Abigail Patel Dec-16-2003 3.620000 I 75
+Mila Bryant Jan-4-2004 3.340000 I 111
+Brooklyn Hunter Jan-13-2004 4.030000 D
+Evelyn Bell Mar-15-2004 3.710000 D
+Gabriel Nguyen Mar-25-2004 2.060000 I 55
+Ethan Choi Apr-15-2004 1.270000 I 73
+Mila Jenkins Apr-27-2004 2.000000 I 73
+Sebastian Scott Apr-28-2004 1.620000 D
+Lucy Patel May-17-2004 2.590000 I 29
+Owen Lewis Jul-7-2004 2.780000 I 79
+Olivia Nguyen Aug-16-2004 1.770000 D
+Aiden Gray Nov-6-2004 0.890000 D
+Oliver Bennett Nov-18-2004 3.710000 I 36
+John Singh Nov-22-2004 3.460000 D
+Eli Bennett Dec-16-2004 3.090000 D
+John Li Jan-1-2005 3.780000 I 113
+David Bailey Jan-8-2005 1.920000 I 95
+Sophia Adams Feb-16-2005 2.430000 I 37
+Liam Li Feb-19-2005 2.520000 I 102
+Madison Sanchez Mar-12-2005 0.240000 I 72
+Samuel Gomez Mar-14-2005 0.870000 I 27
+Harper Chen Mar-23-2005 3.590000 D
+Aria Bennett Apr-8-2005 0.630000 I 7
+Olivia Collins May-19-2005 3.270000 D
+Liam Edwards May-20-2005 3.270000 I 28
+Noah Jenkins May-24-2005 0.520000 D
+Aiden Gomez Jun-9-2005 1.950000 D
+Nora Thompson Jun-16-2005 0.240000 D
+Luna Burns Jul-4-2005 1.410000 I 80
+Ethan Bryant Jul-28-2005 3.430000 I 53
+Aria Li Aug-25-2005 3.570000 D
+Daniel Powell Sep-4-2005 2.780000 D
+Mia Collins Oct-21-2005 3.080000 D
+Sebastian Hayes Oct-23-2005 2.610000 D
+Luna Evans Nov-13-2005 3.330000 I 77
+Luna Rodriguez Nov-21-2005 2.510000 I 83
+Zoe Rivera Feb-27-2006 1.810000 D
+Emma Stewart Mar-13-2006 3.890000 D
+Daniel Choi Mar-16-2006 3.430000 I 12
+Brooklyn Rodriguez Jul-6-2006 2.100000 I 80
+Caleb Patel Jul-14-2006 0.420000 D
+Wyatt Bryant Aug-8-2006 0.590000 D
+Wyatt Mitchell Aug-13-2006 1.000000 I 33
+Ryan Gonzales Aug-16-2006 2.880000 I 7
+Nathan Edwards Aug-17-2006 3.010000 I 107
+Emily Brown Aug-26-2006 1.820000 I 36
+Aiden Choi Sep-17-2006 0.270000 D
+Caleb Li Oct-27-2006 3.200000 D
+Mason Thompson Nov-12-2006 2.720000 D
+Brooklyn Hunter Jan-27-2007 4.190000 I 47
+Ella Bowen Feb-16-2007 3.120000 I 41
+Samuel Mitchell Mar-4-2007 2.570000 I 95
+Nora Moore Mar-4-2007 3.580000 I 97
+Nicholas Morgan Mar-13-2007 1.950000 I 36
+Emma Rodriguez Apr-22-2007 3.870000 I 33
+Nora Scott May-12-2007 1.650000 D
+Sebastian Martinez Jun-23-2007 0.820000 I 103
+Gabriel Gray Aug-14-2007 3.960000 D
+Wyatt Gonzales Sep-28-2007 1.030000 D
+Ethan Price Sep-28-2007 3.950000 I 39
+Avery Martinez Oct-14-2007 3.110000 D
+Olivia Spencer Oct-24-2007 4.090000 I 55
+Harper Morgan Nov-3-2007 1.600000 I 36
+Owen Adams Nov-8-2007 2.970000 I 6
+Jackson Chen Dec-2-2007 0.890000 I 120
+Noah Hill Dec-13-2007 2.890000 I 6
+Avery Edwards Dec-15-2007 2.410000 D
+Emily Bell Jan-11-2008 4.150000 D
+Connor Stewart Feb-2-2008 0.670000 I 31
+Liam Scott Feb-4-2008 2.720000 I 12
+Aria Gomez Feb-7-2008 3.740000 D
+Mia Zhao Mar-8-2008 3.250000 D
+Oliver Collins Mar-11-2008 4.040000 D
+David Rivera Mar-18-2008 3.400000 I 87
+Noah Martinez Apr-4-2008 3.070000 D
+Madison Burns Apr-7-2008 2.640000 I 39
+Lily Lee Apr-17-2008 2.440000 I 119
+David Lopez Jun-2-2008 1.480000 I 2
+Aiden Scott Jun-9-2008 0.750000 I 67
+Elizabeth Burns Jun-12-2008 1.870000 D
+Zoe Hunter Jul-3-2008 2.860000 I 38
+Caleb Zhao Jul-3-2008 2.130000 I 106
+Liam Martinez Aug-5-2008 2.250000 D
+Mia Scott Aug-19-2008 2.390000 I 116
+Henry Hall Oct-18-2008 3.490000 D
+Victoria Brown Dec-5-2008 2.290000 I 47
+Logan Spencer Dec-14-2008 1.520000 D
+Amelia Green Dec-19-2008 2.140000 D
+Lily Burns Feb-11-2009 1.720000 I 73
+Mason Howard Mar-6-2009 1.100000 I 101
+Oliver Bryant Apr-12-2009 2.210000 D
+Victoria Lee Jun-1-2009 3.150000 D
+Aiden Wilson Jun-11-2009 1.520000 I 37
+Sophie Bell Aug-11-2009 3.960000 D
+Nathan Bell Sep-1-2009 1.300000 D
+Wyatt Howard Sep-4-2009 1.410000 I 44
+Abigail Hughes Oct-22-2009 2.680000 I 68
+Evelyn Bell Nov-6-2009 3.940000 D
+Gabriel Hill Nov-10-2009 3.870000 I 2
+Paisley Burns Dec-26-2009 3.320000 I 119
+Zoe James Feb-4-2010 0.680000 D
+Nora Singh Feb-19-2010 2.710000 D
+Ryan Mitchell Feb-28-2010 3.430000 D
+Ryan Zhao Mar-2-2010 4.090000 I 69
+Victoria Thompson Mar-25-2010 2.830000 I 68
+James Sanchez May-13-2010 0.760000 I 102
+Hannah Spencer May-15-2010 3.470000 I 4
+Charlotte Jenkins May-21-2010 3.870000 D
+Avery Spencer Sep-13-2010 2.900000 I 113
+Olivia Hughes Sep-21-2010 2.090000 D
+Carter Rivera Oct-9-2010 3.640000 D
+Lucas Fowler Oct-22-2010 1.610000 D
+Henry Hughes Nov-10-2010 2.230000 I 77
+Aria Mitchell Dec-11-2010 1.280000 D
+Emma Morgan Dec-14-2010 2.330000 D
